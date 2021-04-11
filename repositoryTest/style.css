@@ -1,0 +1,23 @@
+p {
+    display: flex;
+    color: red;
+    background-color: #000;
+    font-size: 25px;
+    margin: auto;
+    padding: 25px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 1px solid rgb(255, 5, 5);
+    transition: all 0.3s;
+    text-align: center;
+}
+
+p:hover {
+    color: blue;
+    background-color: #fff;
+    opacity: 0.2s;
+    border-radius: 17px;
+    border: 1px solid black;
+    transition: all 0.3s;
+}
