@@ -7,7 +7,7 @@ p {
     padding: 25px;
     width: 150px;
     cursor: pointer;
-    border-radius: 15px;
+    border-radius: 14px;
     border: 1px solid rgb(255, 5, 5);
     transition: all 0.3s;
     text-align: center;
